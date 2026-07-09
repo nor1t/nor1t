@@ -32,7 +32,7 @@ if (you.hasCoolProject()) NORIT.collaborate();
 
 ---
 
-## 🧬 Tech DNA
+##  Tech DNA
 
 <table align="center">
 <tr>
@@ -75,9 +75,9 @@ if (you.hasCoolProject()) NORIT.collaborate();
 </tr>
 </table>
 
-### 🎯 What I Work With
+###  What I Work With
 
-| 🖥 Frontend | ⚙️ Backend | 🗄️ Database | ☁️ DevOps & Tools |
+|  Frontend |  Backend |  Database |  DevOps & Tools |
 |-------------|------------|-------------|-------------------|
 | React | Node.js | PostgreSQL | Docker |
 | React Native | Express | MongoDB | GitHub Actions |
@@ -85,7 +85,7 @@ if (you.hasCoolProject()) NORIT.collaborate();
 | Tailwind CSS | PHP | Firebase | Vite |
 | HTML5 / CSS3 | C# / .NET | SQL Server | Git |
 
-### 📊 Skills Breakdown
+###  Skills Breakdown
 
 ```
 React / React Native  ████████████████████░  94%
@@ -101,7 +101,7 @@ Git                   ██████████████████░�
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/nor1t/KosVibe">
@@ -126,7 +126,7 @@ Git                   ██████████████████░�
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nor1t&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e0e0e8&icon_color=00d4ff&ring_color=ff2d6b&hide_title=true" />
@@ -139,7 +139,7 @@ Git                   ██████████████████░�
 
 ---
 
-## 🎓 Education & Journey
+##  Education & Journey
 
 ```mermaid
 timeline
@@ -160,15 +160,15 @@ timeline
          : Open source & community building
 ```
 
-> 🏫 **University "Isa Boletini" in Mitrovica** — BSc in Computer Science & Engineering *(2023 – 2026)*
+>  **University "Isa Boletini" in Mitrovica** — BSc in Computer Science & Engineering *(2023 – 2026)*
 >
-> 📜 **Online Certifications & Bootcamps** — Full-Stack & Data Engineering Track *(2021 – 2026)*
+>  **Online Certifications & Bootcamps** — Full-Stack & Data Engineering Track *(2021 – 2026)*
 >
-> 🧠 **Self-Directed Learning** — Machine Learning & Applied AI *(2020 – Present)*
+>  **Self-Directed Learning** — Machine Learning & Applied AI *(2020 – Present)*
 
 ---
 
-## ⚡ Quick Stats
+##⚡ Quick Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nor1t&color=00ff88&style=flat-square&label=PROFILE+VIEWS" />
@@ -183,7 +183,7 @@ timeline
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <i>I'm always open to collaborating on interesting projects, contributing to open source,</i><br/>
