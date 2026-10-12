@@ -54,16 +54,16 @@ const NORIT = {
 
 <p align="center">
   <a href="https://github.com/nor1t/KosVibe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=KosVibe&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e0e0e8&icon_color=ff2d6b" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=KosVibe&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e0e0e8&icon_color=ff2d6b&v=2" />
   </a>
   <a href="https://github.com/nor1t/LFGconnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=LFGconnect&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e8&icon_color=ffe14d" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=LFGconnect&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e8&icon_color=ffe14d&v=2" />
   </a>
   <a href="https://github.com/nor1t/SEMAFORI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=SEMAFORI&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=ff2d6b&text_color=e0e0e8&icon_color=00d4ff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=SEMAFORI&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=ff2d6b&text_color=e0e0e8&icon_color=00d4ff&v=2" />
   </a>
   <a href="https://github.com/nor1t/smartBINS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=smartBINS&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=ffe14d&text_color=e0e0e8&icon_color=00ff88" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nor1t&repo=smartBINS&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=ffe14d&text_color=e0e0e8&icon_color=00ff88&v=2" />
   </a>
 </p>
 
