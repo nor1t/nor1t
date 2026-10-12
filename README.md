@@ -6,7 +6,7 @@ Full-Stack Engineer based in Kosovo. I build performant web and mobile applicati
 const NORIT = {
   location  : "Kosovo",
   role      : "Full-Stack Engineer",
-  education : "BSc Computer Science & Engineering",
+  education : "BSc Computer Science & Engineering", "attending MSc in Cloud and Edge Computing",
   interests : ["Web Dev", "Mobile Apps", "Data Engineering", "ML"],
   currently : "Building cool stuff & exploring cloud-native",
 };
@@ -87,7 +87,7 @@ const NORIT = {
 ##  Connect
 
 <p align="center">
-  <a href="https://nor1t.vercel.app/">
+  <a href="https://norit.app/">
     <img height="40" src="https://img.shields.io/badge/Portfolio-nor1t.vercel.app-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" />
   </a>
   <a href="https://www.linkedin.com/in/noriti/">
