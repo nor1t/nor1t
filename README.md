@@ -1,6 +1,6 @@
 # Hi, I'm Norit Qyqalla 
 
-Full-Stack Engineer based in Kosovo. I build performant web and mobile applications, from pixel-perfect interfaces to scalable backends. Currently pursuing a BSc in Computer Science & Engineering, with a strong side interest in data engineering and applied machine learning.
+Full-Stack Engineer based in Kosovo. I build performant web and mobile applications, from pixel-perfect interfaces to scalable backends. Currently pursuing a MSc in Cloud and Edge Computing, with a strong side interest in data engineering and applied machine learning.
 
 ```typescript
 const NORIT = {
